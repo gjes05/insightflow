@@ -1,4 +1,4 @@
-# T-Mobile Real-Time Operations Monitor
+# InsightsFlow Real-Time Operations Monitor
 
 A multi-agent AI system that simulates, analyzes, and visualizes T-Mobile customer experience metrics in real-time using LLMs for decision-making.
 
