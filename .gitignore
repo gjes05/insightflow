@@ -1,0 +1,12 @@
+venv/
+.env
+.env.*
+*.env
+.venv/
+env/
+ENV/
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+.streamlit/secrets.toml
+__pycache__/

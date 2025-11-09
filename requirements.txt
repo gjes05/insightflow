@@ -1,0 +1,14 @@
+# Core dependencies for simulator
+google-generativeai>=0.3.0
+python-dotenv>=1.0.0
+
+# Core dependencies for agent/listener
+requests>=2.31.0
+
+# Core dependencies for Streamlit dashboard
+streamlit>=1.28.0
+plotly>=5.17.0
+pandas>=2.0.0
+
+# Optional but recommended
+numpy>=1.24.0
